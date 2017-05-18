@@ -1,6 +1,9 @@
 ----------------------------------------Tâìt caÒ nhân viên biÌnh thýõÌng (trýÌ trýõÒng phoÌng, trýõÒng chi nhaình, trýõÒng dýò aìn)--------------------------------------------------
 -------------------------------------------chiÒ ðýõòc pheìp xem thông tin nhân viên trong phoÌng cuÒa miÌnh, chiÒ ðýõòc xem------------------------------------------------------
 -------------------------------------------lýõng cuÒa baÒn thân (VPD)----------------------------------------------------------------------------------------------------
+--GRANT EXEMPT ACCESS POLICY TO lab01
+GRANT EXEMPT ACCESS POLICY TO lab01;
+
 --Taòo context nhanVien_ctx
 create or replace context nhanVien_ctx  using set_nhanVien_ctx_pkg;
 
