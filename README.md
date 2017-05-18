@@ -46,7 +46,8 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 Link ảnh GIF demo ứng dụng:
 
-![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/tree/master/demo)
+![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_05_1412414.gif)
+![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_08_1412414.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
