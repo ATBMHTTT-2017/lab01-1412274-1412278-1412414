@@ -45,8 +45,9 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 ## Demo
 
 Link ảnh GIF demo ứng dụng:
-
+1. Chỉ trưởng phòng được phép cập nhật và thêm thông tin vào dự án (DAC). (**1412414**)
 ![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_05_1412414.gif)
+2. Tất cả nhân viên bình thường (trừ trưởng phòng, trưởng chi nhánh và các trưởng dự án) chỉ được phép xem thông tin nhân viên trong phòng của mình, chỉ được xem lương của bản thân (VPD). (**1412414**)
 ![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_08_1412414.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
