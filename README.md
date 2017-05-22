@@ -52,10 +52,10 @@ Link ảnh GIF demo ứng dụng:
 3. Trưởng phòng được phép đọc dữ liệu dự án của tất cả phòng ban nhưng chỉ được phép ghi dữ liệu dự án thuộc phòng của mình. (**1412414**)
 ![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_15_1412414.gif)
 4. Chỉ trưởng phòng, trưởng chi nhánh được cấp quyền thực thi stored procedure cập nhật thông tin phòng ban của mình (DAC). (**1412274**)
-![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_7_1_1412274.gif)
-![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_7_2_1412274.gif)
+![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_05_1_1412274.gif)
+![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_05_2_1412274.gif)
 5. Trưởng phòng chỉ được phép đọc thông tin chi tiêu của dự án trong phòng ban mình quản lý. Với những dự án không thuộc phòng ban của mình, các trưởng phòng được phép xem thông tin chi tiêu nhưng không được phép xem số tiền cụ thể (VPD). (**1412274**)
-![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_10_1412274.gif)
+![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_08_1412274.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
