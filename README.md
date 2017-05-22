@@ -3,7 +3,7 @@
 **Name of your app** là một bài tập 1 tại môn ATBMHTTT. Bài tập yêu cầu sinh viên tạo cơ sở dữ liệu, phân quyền theo các yêu cầu.
 
 Thành viên:
-* [x] **1412274** Nguyễn Hoàng Kim (tên tài khoản github)
+* [x] **1412274** Nguyễn Hoàng Kim (1412274-NHKim)
 * [x] **1412278** Phan Khánh Lâm (tên tài khoản github)
 * [x] **1412414** Vương Thiên Phú (1412414)
 
