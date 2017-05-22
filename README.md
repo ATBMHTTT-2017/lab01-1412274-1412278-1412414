@@ -56,7 +56,7 @@ Link ảnh GIF demo ứng dụng:
 ![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_05_2_1412274.gif)
 5. Trưởng phòng chỉ được phép đọc thông tin chi tiêu của dự án trong phòng ban mình quản lý. Với những dự án không thuộc phòng ban của mình, các trưởng phòng được phép xem thông tin chi tiêu nhưng không được phép xem số tiền cụ thể (VPD). (**1412274**)
 ![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_08_1412274.gif)
-6. Giám đốc được phép xem thông tin dự án gồm (mã dự án, tên dự án, kinh phí, tên phòng chủ trì, tên chi nhánh chủ trì, tên trưởng dự án và tổng chi) (DAC).(**1412278**)
+6. Giám đốc được phép xem thông tin dự án gồm (mã dự án, tên dự án, kinh phí, tên phòng chủ trì, tên chi nhánh chủ trì, tên trưởng dự án và tổng chi) (DAC).(**1412278**) 
 ![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_04_1412278.gif)
 7. Trưởng dự án chỉ được phép đọc, ghi thông tin chi tiêu của dự án mình quản lý (VPD). (**1412278**)
 ![Video Walkthrough](https://github.com/ATBMHTTT-2017/lab01-1412274-1412278-1412414/blob/master/Demo/policy_07_1412278.gif)
